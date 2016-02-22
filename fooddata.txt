@@ -1,0 +1,90 @@
+Lemon Cake
+Parkside Dining Hall
+1
+5
+NO
+5
+http://s10.postimg.org/84nwq022x/lemoncake.png
+Donuts
+Parkside Dining Hall
+1
+5
+NO
+15
+
+Ladybug Donuts
+Parkside Dinign Hall
+1
+5
+NO
+2
+
+Blueberry Smoothie
+Little Galen Athletic Center
+0.5
+7.5
+NO
+3
+http://s10.postimg.org/tn93qrv61/smoothie_1.png
+Zywiec Beer
+Polish Shop, Santa Monica
+20
+2.99
+NO
+6
+http://s10.postimg.org/x9ex3f1jd/zywiec.png
+Fish
+Cafe 84
+0.5
+6
+NO
+10
+http://s10.postimg.org/kyqjx34w9/fish.png
+USC Waffle (Plain)
+Parkside Dining Hall
+1
+5
+NO
+3
+
+Omelette
+Little Galen Athletic Center
+0.5
+7.5
+NO
+3
+
+Parkside Cakes
+Parkside Dining Hall
+1
+5
+NO
+20
+
+Coconut Cake
+Lemonade
+1
+4.99
+YES
+2
+http://s10.postimg.org/3mq7bnbex/lemonade.png
+Ice-cream Waffle
+Parkside Dining Hall
+1
+5
+NO
+1
+http://s10.postimg.org/8rmtfiyyx/icecreamwaffle.png
+Cereal
+Cafe 84
+0.5
+6
+NO
+4
+http://s10.postimg.org/3k6bot7rd/cereal.png
+Gelato
+Gelato Place
+29
+3:5
+YES
+5
